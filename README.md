@@ -1,5 +1,5 @@
 # Il2cppDumpDroidGUI
-This is @Perfare 's Modified version of il2cppDumper (GUI)  for Android
+This is [@Perfare's](https://github.com/Perfare/Il2CppDumper) Modified version of il2cppDumper (GUI)  for Android
 
 # Open-source
 Obviously it's open-source (However i won't public the source code though).
@@ -19,5 +19,5 @@ Before Downloading the apk file , you should know
 # Some Features
 1) You can choose what you need by clicking 'CONFIG' button
 2) You can add additional information like il2cpp Dump address by clicking 'EXTRA INFO' button
-3) Protected Target's can't be dump by this dumper (same as @Perfare 's one)
+3) Protected Target's can't be dump by this dumper (same as [@Perfare's](https://github.com/Perfare/Il2CppDumper) one)
 
