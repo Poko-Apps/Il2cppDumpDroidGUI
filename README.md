@@ -21,3 +21,7 @@ Before Downloading the apk file , you should know
 2) You can add additional information like il2cpp Dump address by clicking 'EXTRA INFO' button
 3) Protected Target's can't be dump by this dumper (same as [@Perfare's](https://github.com/Perfare/Il2CppDumper) one)
 
+# Contact
+For cradit releted issues :
+Gamil: bisbaas89@gmail.com
+Discord User: Poko#0963
