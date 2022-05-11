@@ -24,4 +24,3 @@ Before Downloading the apk file , you should know
 # Contact
 For cradit releted issues :
 1) Gamil: bisbaas89@gmail.com
-2) Discord User: Poko#0963
