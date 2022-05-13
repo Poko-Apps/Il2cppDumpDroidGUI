@@ -26,4 +26,4 @@ For cradit releted issues :
 1) Gamil: bisbaas89@gmail.com
 
 # Download
-[Latest Release](https://github.com/Poko-Apps/Il2cppDumpDroidGUI/releases/tag/il2cppDumper)
+[>> Download : Latest Release](https://github.com/Poko-Apps/Il2cppDumpDroidGUI/releases/tag/il2cppDumper)
