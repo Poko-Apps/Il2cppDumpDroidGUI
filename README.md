@@ -21,9 +21,11 @@ Before Downloading the apk file , you should know
 2) You can add additional information like il2cpp Dump address by clicking 'EXTRA INFO' button
 3) Protected Target's can't be dump by this dumper (same as [@Perfare's](https://github.com/Perfare/Il2CppDumper) one)
 
+# Download
+>> Download : [Latest Release](https://github.com/Poko-Apps/Il2cppDumpDroidGUI/releases/tag/il2cppDumper)
+>> Download : [Direct Link[apk]](https://github.com/Poko-Apps/Il2cppDumpDroidGUI/releases/download/il2cppDumper/Il2CppDumperGUI.v1.0.apk)
+
 # Contact
 For cradit releted issues :
 1) Gamil: bisbaas89@gmail.com
 
-# Download
-[>> Download : Latest Release](https://github.com/Poko-Apps/Il2cppDumpDroidGUI/releases/tag/il2cppDumper)
