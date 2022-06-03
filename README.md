@@ -21,7 +21,6 @@ Before Downloading the apk file , you should know
 >> Download : [Latest Release](https://github.com/Poko-Apps/Il2cppDumpDroidGUI/releases/tag/il2cppDumper)
 >> Download : [Direct Link[apk]](https://github.com/Poko-Apps/Il2cppDumpDroidGUI/releases/download/il2cppDumper/Il2CppDumperGUI.v1.0.apk)
 
-# Contact
-For cradit releted issues :
-1) Gamil: bisbaas89@gmail.com
-
+# Communication
+ * [Discord](https://discord.gg/XxBYZztJdE) (Must Not Come There If You Have Nothing To Do With Unreal Engine)
+ * bisbaas89@gmail.com
