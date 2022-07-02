@@ -30,6 +30,14 @@ This is [@Perfare's](https://github.com/Perfare/Il2CppDumper) Modified version o
  > <img src="Images/error.jpg" width="300" height= "300"/>
  If so then click 'Install Anyway'
 
+# Often Asked Question
+* Does it supports dumping with address of memory ?
+> Yes , Dumper will ask you in runtime .
+* What about forse dump Version ?
+> Yes it's available , in configaration setting !
+* What about user input CodeRegistration & MetadataRegistration offset ?
+> Yes , Dumper will ask you in runtime .
+
 # Environment
 * Project shifted to Visual Studio 2022
 * Used Xamarin
