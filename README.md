@@ -27,7 +27,7 @@ This is [@Perfare's](https://github.com/Perfare/Il2CppDumper) Modified version o
 
 # Installation
  While installation process , play protect might warn you . Like this :
- <img src="Images/error.jpg" width="300" height= "300"/>
+ > <img src="Images/error.jpg" width="300" height= "300"/>
  If so then click 'Install Anyway'
 
 # Environment
