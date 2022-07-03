@@ -23,6 +23,7 @@ This is [@Perfare's](https://github.com/Perfare/Il2CppDumper) Modified version o
 
 # Supported Versions
 * Android 5 - Android 12
+  * Except Android 10
 * API Level 21 - API Level 31
 
 # Tested
