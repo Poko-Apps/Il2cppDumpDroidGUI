@@ -2,9 +2,6 @@
 This is [@Perfare's](https://github.com/Perfare/Il2CppDumper) Modified version of il2cppDumper (GUI)  for Android
 
 # WARNING
-* For Android 10 USERS
-  * Dumper have some problem with android 10 that need be fixed .
-  * So as of now it's not working on Android 10
 * Don't download v1.0 release anymore , cause it have some major bugs
 * If you're using v1.0 then uninstall it immediately and download newer version
 
@@ -23,7 +20,6 @@ This is [@Perfare's](https://github.com/Perfare/Il2CppDumper) Modified version o
 
 # Supported Versions
 * Android 5 - Android 12
-  * Except Android 10
 * API Level 21 - API Level 31
 
 # Tested
