@@ -79,7 +79,7 @@ For all change logs [[Click here]](ChangeLogs/ch-logs.md)
 
 # This Repo
 <b><i>This repo is just to distribute the application (apk) and doesn't contain any code at all ,
-hence all tags is dummy & have no use . Make your business with just the release section. I'm aren't taking any responsibility for misuse of this app .
+hence all tags is dummy & have no use . Make your business with just the release section. I'm not taking any responsibility for misuse of this app .
 </i></b>
 # Credits
  * [Il2CppDumper](https://github.com/Perfare/Il2CppDumper)
