@@ -1,5 +1,5 @@
 {
-    "version" : "2.0.1" ,
-    "description" : "crash and other bug fixes & stability" ,
-    "url" : "https://github.com/Poko-Apps/Il2cppDumpDroidGUI/releases/download/v2.0.1/Il2CppDumperGUI_v2.0.1.apk"
+    "version" : "2.1.0" ,
+    "description" : "Merged latest dumper, A14 Support, Improvement" ,
+    "url" : "https://github.com/Poko-Apps/Il2cppDumpDroidGUI/releases/download/v2.1.0/Il2CppDumperGUI_v2.1.0_Performance_AOT+LLVM.apk"
 }

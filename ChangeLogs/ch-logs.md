@@ -1,4 +1,19 @@
 <details open>
+<summary> v2.1.0</summary>
+
+* Merged latest [commit](https://github.com/Perfare/Il2CppDumper/commit/217f1d4737cd9d9d16ab5bef355156bcbc44f9e0) from upstream
+* Fixed [[#issue-2](https://github.com/Poko-Apps/Il2cppDumpDroidGUI/issues/2)]
+* Project Migration Xamarin.Android -> .NET Android
+* Support for Android 14
+* Minimum android set to 6
+* Saving and Resetting configuration now saved as preferences for next time .
+* Output directory log color changed to a bit more bright
+* Unused Dump**N** folder inside "DumpDroid" folder now reused in next dump .
+* In Configaration Dialog, DumpProperty by default disabled
+* Some Code improvements
+</details>
+
+<details>
 <summary> v2.0.1</summary>
 
 * Android 10 crash fixed [[#issue-1](https://github.com/Poko-Apps/Il2cppDumpDroidGUI/issues/1)]
