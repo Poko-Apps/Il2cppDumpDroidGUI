@@ -8,18 +8,12 @@
 <p><br>
 
 <p align="center">
-<!-- Latest release -->
-<a href="https://github.com/Poko-Apps/Il2cppDumpDroidGUI/releases/tag/v2.1.0">
-<img src="https://img.shields.io/github/v/release/Poko-Apps/Il2cppDumpDroidGUI?label=Latest%20Release" alt="Latest release">
-</a>
-<!-- Total Downloads -->
-<a href="https://github.com/Poko-Apps/Il2cppDumpDroidGUI/releases/tag/v2.1.0">
-<img src="https://img.shields.io/github/downloads/Poko-Apps/Il2cppDumpDroidGUI/total?label=Total%20Downloads" alt="Total Downloads">
-</a>
-<!-- License -->
-<a href="https://github.com/Poko-Apps/Il2cppDumpDroidGUI/blob/master/LICENSE">
-<img src="https://img.shields.io/badge/License-GPLv3-8A2BE2.svg" alt="License">
-</a>
+    <a href="https://github.com/Poko-Apps/Il2cppDumpDroidGUI/releases/tag/v2.1.0" alt="Latest Release">
+        <img src="https://img.shields.io/github/v/release/Poko-Apps/Il2cppDumpDroidGUI?label=Latest%20Release" /></a>
+    <a href="https://github.com/Poko-Apps/Il2cppDumpDroidGUI/releases/tag/v2.1.0" alt="Latest Release">
+        <img src="https://img.shields.io/github/downloads/Poko-Apps/Il2cppDumpDroidGUI/total?label=Total%20Downloads" /></a>
+    <a href="https://github.com/Poko-Apps/Il2cppDumpDroidGUI/blob/master/LICENSE" alt="Licence">
+        <img src="https://img.shields.io/badge/License-GPLv3-8A2BE2.svg" /></a>
 </p>
 
 
