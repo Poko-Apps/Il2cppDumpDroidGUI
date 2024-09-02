@@ -8,9 +8,9 @@
 <p><br>
 
 <p align="center">
-    <a href="https://github.com/Poko-Apps/Il2cppDumpDroidGUI/releases/tag/v2.1.0" alt="Latest Release">
+    <a href="https://github.com/Poko-Apps/Il2cppDumpDroidGUI/releases/tag/v2.1.1" alt="Latest Release">
         <img src="https://img.shields.io/github/v/release/Poko-Apps/Il2cppDumpDroidGUI?label=Latest%20Release" /></a>
-    <a href="https://github.com/Poko-Apps/Il2cppDumpDroidGUI/releases/tag/v2.1.0" alt="Latest Release">
+    <a href="https://github.com/Poko-Apps/Il2cppDumpDroidGUI/releases/tag/v2.1.1" alt="Total Downloads">
         <img src="https://img.shields.io/github/downloads/Poko-Apps/Il2cppDumpDroidGUI/total?label=Total%20Downloads" /></a>
     <a href="https://github.com/Poko-Apps/Il2cppDumpDroidGUI/blob/master/LICENSE" alt="Licence">
         <img src="https://img.shields.io/badge/License-GPLv3-8A2BE2.svg" /></a>
@@ -42,6 +42,14 @@
 
 ## Recent Change Log
 <details open>
+<summary> v2.1.1</summary>
+
+* Supports metadata version 31
+* Merged latest [commit](https://github.com/Perfare/Il2CppDumper/commit/4741d46ba9cd6159c5d853eb9d6fc48b4bfa2b1a) from upstream
+* Fixed [[#issue-4](https://github.com/Poko-Apps/Il2cppDumpDroidGUI/issues/4)]
+</details>
+
+<details>
 <summary> v2.1.0</summary>
 
 * Merged latest [commit](https://github.com/Perfare/Il2CppDumper/commit/217f1d4737cd9d9d16ab5bef355156bcbc44f9e0) from upstream
@@ -55,25 +63,14 @@
 * In Configaration Dialog, DumpProperty by default disabled
 * Some Code improvements
 </details>
-
-<details>
-<summary> v2.0.1</summary>
-
-* Android 10 crash fixed [[#issue-1](https://github.com/Poko-Apps/Il2cppDumpDroidGUI/issues/1)]
-* Now resetting config automatically saved 
-* Multiple permission window fixed in android 11 or up
-* App icon changed 
-* Support for android 12L & 13
-* Overall stability and bug fixes 
-</details>
 <br>
 <hr>
 
 For all change logs [[Click here]](ChangeLogs/ch-logs.md)
 
 ## Installation/update
- If you're updating the app from previous version, then please uninstall previous one first .
-As I've signed new apks with different keystore (lost previous one 🥲)
+ If you're using version v2.0.1 or older, then please uninstall previous one first .
+As I've signed new apks with different keystore.
 
 <i>If installation <b>failed</b> for any reason, uninstall the previous version and try again !!</i>
 
@@ -85,8 +82,8 @@ As I've signed new apks with different keystore (lost previous one 🥲)
 * Visit Perfare's [Dumper](https://github.com/Perfare/Il2CppDumper) , To know more about it .
 
 ## Download
->> Download : [Latest Release](https://github.com/Poko-Apps/Il2cppDumpDroidGUI/releases/tag/v2.1.0)
->> Download : [Direct Link[apk]](https://github.com/Poko-Apps/Il2cppDumpDroidGUI/releases/download/v2.1.0/Il2CppDumperGUI_v2.1.0_Performance_AOT+LLVM.apk)
+>> Download : [Latest Release](https://github.com/Poko-Apps/Il2cppDumpDroidGUI/releases/tag/v2.1.1)
+>> Download : [Direct Link[apk]](https://github.com/Poko-Apps/Il2cppDumpDroidGUI/releases/download/v2.1.1/Il2CppDumperGUI_v2.1.1_Performance_AOT+LLVM.apk)
 
 In Latest Release section two variants of apk provided . Performance one is compiled with AOT (Ahead of Time) + LLVM configaration and provides 15-40% faster speed when dumping . classic one is just like old releases and less in size . **Recommend one is Performance apk**
 

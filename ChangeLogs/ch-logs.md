@@ -1,4 +1,12 @@
 <details open>
+<summary> v2.1.1</summary>
+
+* Supports metadata version 31
+* Merged latest [commit](https://github.com/Perfare/Il2CppDumper/commit/4741d46ba9cd6159c5d853eb9d6fc48b4bfa2b1a) from upstream
+* Fixed [[#issue-4](https://github.com/Poko-Apps/Il2cppDumpDroidGUI/issues/4)]
+</details>
+
+<details>
 <summary> v2.1.0</summary>
 
 * Merged latest [commit](https://github.com/Perfare/Il2CppDumper/commit/217f1d4737cd9d9d16ab5bef355156bcbc44f9e0) from upstream

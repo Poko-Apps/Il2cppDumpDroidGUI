@@ -1,5 +1,5 @@
 {
-    "version" : "2.1.0" ,
-    "description" : "Merged latest dumper, A14 Support, Improvement" ,
-    "url" : "https://github.com/Poko-Apps/Il2cppDumpDroidGUI/releases/download/v2.1.0/Il2CppDumperGUI_v2.1.0_Performance_AOT+LLVM.apk"
+    "version" : "2.1.1" ,
+    "description" : "Support for metadata version 31" ,
+    "url" : "https://github.com/Poko-Apps/Il2cppDumpDroidGUI/releases/download/v2.1.1/Il2CppDumperGUI_v2.1.1_Performance_AOT+LLVM.apk"
 }
